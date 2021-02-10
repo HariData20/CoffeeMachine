@@ -1,4 +1,4 @@
-type: hyperskill
+
 title: Coffee Machine
 language: English
 summary: 'What can be better than a cup of coffee during a break? A coffee that you
@@ -7,10 +7,9 @@ summary: 'What can be better than a cup of coffee during a break? A coffee that 
   In this project, you will work on programming a coffee machine simulator. The machine
   works with typical products: coffee, milk, sugar, and plastic cups; if it runs out
   of something, it shows a notification. You can get three types of coffee: espresso,
-  cappuccino, and latte. Since nothing’s for free, it also collects the money.<br/><br/>Learn
-  more at <a href="https://hyperskill.org">https://hyperskill.org/projects/68</a>'
+  cappuccino, and latte. Since nothing’s for free, it also collects the mone
 programming_language: Python
 content:
 - Coffee Machine
 - Problems
-mode: Study
+
